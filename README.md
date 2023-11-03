@@ -7,4 +7,4 @@
 ## Usage
 
 To start the server, navigate to the project folder and run:
-`npm run devStart`
+`npm run dev`
